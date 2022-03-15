@@ -18,13 +18,22 @@
 
 <body>
 
-<h1 class=title >Hochzeit Kißler/Voss </h1>
+<h1 class=title >Hochzeit Petra/Jens </h1>
   
 <div id="oben" class=middle1 > 
   <font size="5" class=zwischenüberschrift > Aktuell: </font>
 </div>
 <div id="middle">  
 <font size="3"> Mamas toller text </font>
+</div>
+  
+<div id="bottom">
+  <font size"5" classzwischenübeerschrift1 > Info: </font>
+  </div>  
+  
+
+  
+  
 </div>
 
 </body>
