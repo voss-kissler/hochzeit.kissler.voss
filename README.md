@@ -1,6 +1,6 @@
 # hochzeit.kissler.voss
 <style> 
-.title { color:  rgb(0, 0, 0) }
+.title { color:  rgb(250, 0, 0) }
   
   
 </style>
