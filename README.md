@@ -28,7 +28,7 @@
 </div>
   
 <div id="bottom">
-  <font size"5" class=zwischenübeerschrift1 > Info: </font>
+  <font size="5" class=zwischenübeerschrift1 > Info: </font>
   </div>  
   
 
