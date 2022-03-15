@@ -10,7 +10,7 @@
          padding-right: 10px;
   }
   
-  
+  .middle1 { padding-bottom: 20px; }
 
   
 </style>
@@ -20,8 +20,8 @@
 
 <h1 class=title >Hochzeit Kißler/Voss </h1>
   
-<div id="oben"> 
-  <font size="5" class=zwischenüberschrift > Aktuell </font>
+<div id="oben" class=middle1 > 
+  <font size="5" class=zwischenüberschrift > Aktuell: </font>
 </div>
 <div id="middle">  
 <font size="3"> Mamas toller text </font>
