@@ -20,8 +20,11 @@
 
 <h1 class=title >Hochzeit Kißler/Voss </h1>
   
-<font size="5" class=zwischenüberschrift > Aktuell </font>
-  
+<div id="oben"> 
+  <font size="5" class=zwischenüberschrift > Aktuell </font>
+</div>
+<div id="middle">  
 <font size="3"> Mamas toller text </font>
+</div>
 
 </body>
