@@ -1,2 +1,12 @@
 # hochzeit.kissler.voss
-<h1>Ich bin so gut</h1>
+<style> 
+.title { color:  rgb(0, 0, 0) }
+  
+  
+</style>
+
+
+
+
+<h1 class=title >Ich bin so gut</h1>
+
