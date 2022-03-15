@@ -18,10 +18,10 @@
 
 <body>
 
-<h1> class=title >Hochzeit Kißler/Voss </h1>
+<h1 class=title >Hochzeit Kißler/Voss </h1>
   
 <font size="5" class=zwischenüberschrift > Aktuell </font>
   
-<font size="2"> Mamas toller text </font>
+<font size="3"> Mamas toller text </font>
 
 </body>
